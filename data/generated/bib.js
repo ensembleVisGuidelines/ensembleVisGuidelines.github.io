@@ -16,20 +16,6 @@
         "volume": "12",
         "year": "2006"
     },
-    "albers2014task": {
-        "author": "Szafir, Danielle Albers and Correll, Michael and Gleicher, Michael",
-        "booktitle": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
-        "data_type": "table",
-        "attribute_type": "quantitative",
-        "guideline_acc": "Localization - Extreme Value: Extreme values and the largest range are more accurately extracted from positional visualizations rather than color visualizations.// Localization - Extreme Average: Mean is more accurately extracted from data encoded using color than position.",
-        "guideline_time": "None",
-        "guideline_user": "None",
-        "keywords": "localization:extreme value, localization:extreme average, identification:None, comparison:None, association:None, numeration:None",
-        "pages": "551--560",
-        "title": "Task-driven evaluation of aggregation in time series visualization",
-        "type": "inproceedings",
-        "year": "2014"
-    },
     "albo2016off": {
         "author": "Albo, Yael and Lanir, Joel and Bak, Peter and Rafaeli, Sheizaf",
         "data_type": "table",
@@ -216,37 +202,6 @@
         "title": "Effects of stereo and screen size on the legibility of three-dimensional streamtube visualization",
         "type": "article",
         "volume": "18",
-        "year": "2012"
-    },
-    "chen2019measuring": {
-        "author": "Chen, Jian and Zhang, Guohao and Chiou, Wesley and Laidlaw, David H. and Auchus, Alexander P",
-        "data_type": "field",
-        "attribute_type": "quantitative",
-        "guideline_acc": "Localization - Other Target Attributes: To locate the one box among three in which the endpoints of the tracts marked in red spheres lay at one end of the tracts, the Boy's surface embedding and absolute RGB color-triples embedding lead to most accurate answers, followed by eigenmap embedding.// Identification - Average: To adjust the triangle slider on a colormap to the average color of given tracts, grayscale colormap is significantly less accurate than blackbody colormap, isoluminant-rainbow colormap, extended-blackbody colormap, and coolwarm colormap.",
-        "guideline_time": "Localization - Other Target Attributes: To locate the one box among three in which the endpoints of the tracts marked in red spheres lay at one end of the tracts, the Boy's surface embedding has the shortest completion time among grayscale, absolute RGB color-triples, and eigenmap embedding.// Identification - Average: To adjust the triangle slider on a colormap to the average color of given tracts, extended-blackbody colormap and coolwarm colormap lead to the longest task completion time compared to grayscale colomap, diverging colormap, blackbody colormap, and isoluminant-rainbow colormap.",
-        "guideline_user": "None",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "localization:other target attributes, identification:average, comparison:None, association:None, numeration:None",
-        "publisher": "IEEE",
-        "title": "Measuring the Effects of Scalar and Spherical Colormaps on Ensembles of DMRI Tubes",
-        "type": "article",
-        "year": "2019"
-    },
-    "choo2012average": {
-        "author": "Choo, Heeyoung and Levinthal, Brian R and Franconeri, Steven",
-        "data_type": "field",
-        "attribute_type": "quantitative",
-        "guideline_acc": "Identification - Average: To choose which of the two images showing the target average orientation, the average orientation of boundary contours of a set of objects is more precisely extracted than the average orientation of their internal textures.",
-        "guideline_time": "None",
-        "guideline_user": "None",
-        "journal": "Journal of Experimental Psychology: Human Perception and Performance",
-        "keywords": "localization:None, identification:average, comparison:None, association:None, numeration:None",
-        "number": "3",
-        "pages": "585",
-        "publisher": "American Psychological Association",
-        "title": "Average orientation is more accessible through object boundaries than surface features.",
-        "type": "article",
-        "volume": "38",
         "year": "2012"
     },
     "correll2018looks": {
@@ -500,23 +455,6 @@
         "type": "article",
         "volume": "20",
         "year": "2014"
-    },
-    "nothelfer2017redundant": {
-        "author": "Nothelfer, Christine and Gleicher, Michael and Franconeri, Steven",
-        "data_type": "geometry",
-        "attribute_type": "nominal",
-        "guideline_acc": "Localization - Feature: To find which quadrant of the display misses the target pattern, redundantly encoding with color and shape is more accurate than color only and shape only.",
-        "guideline_time": "Localization - Feature: To find the repeated letter, participants are significantly slower when the two repeated letters are on marks in different colors, or different shapes, or different redundant encodings combining color and shape.",
-        "guideline_user": "None",
-        "journal": "Journal of Experimental Psychology: Human Perception and Performance",
-        "keywords": "localization:feature, identification:None, comparison:None, association:None, numeration:None",
-        "number": "9",
-        "pages": "1667",
-        "publisher": "American Psychological Association",
-        "title": "Redundant encoding strengthens segmentation and grouping in visual displays of data.",
-        "type": "article",
-        "volume": "43",
-        "year": "2017"
     },
     "nothelfer2019measures": {
         "author": "Nothelfer, Christine and Franconeri, Steven",
@@ -905,37 +843,5 @@
         "type": "article",
         "volume": "27",
         "year": "2020"
-    },
-    "correll2012comparing": {
-        "author": "Correll, Michael and Szafir, Danielle Albers and Franconeri, Steven",
-        "data_type": "table",
-        "attribute_type": "quantitative",
-        "guideline_acc": "Localization - Extreme Average: Participants performed significantly better when using permuted colorfields than ordered colorfields to identify the month that had the maximum average sales.//Localization - Extreme Average: Participants performed significantly better when using colorfield displays than line graphs to identify the month that had the maximum average sales.//Localization - Extreme Average: Participants performed significantly better when using colorfield displays than line graphs to identify the month that had the maximum average sales.//Localization - Extreme Average: Permutation in colorfields did yield statistically better user performance than ordered colorfields in tasks of finding the month that had the maximum average sales.//Localization - Extreme Average: No significant difference was found between ordered and permuted line graphs in tasks of finding the month that had the maximum average sales.//Localization - Extreme Average: The number of distracters has no significant effect on participant accuracy on either colorfields or line graphs in tasks of finding the month that had the maximum average sales.",
-        "guideline_time": "None",
-        "guideline_user": "None",
-        "journal": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
-        "keywords": "localization:extreme average, identification:None, comparison:None, association:None, numeration:cluster",
-        "number": "5",
-        "pages": "1095--1104",
-        "title": "Comparing Averages in Time Series Data",
-        "type": "inproceedings",
-        "year": "2012"
-    },
-    "laidlaw2005comparing": {
-        "author": "Quadri, Ghulam Jilani and Rosen, Paul",
-        "data_type": "field",
-        "attribute_type": "quantitative",
-        "guideline_acc": "Localization - Feature: To locate all critical points in a 2D vector field, line-integral convolution is significantly more accurate than icons on a regular grid.//Localization - Feature: To locate all critical points in a 2D vector field, line-integral convolution is significantly more accurate than icons on a jittered grid.//Localization - Feature: To locate all critical points in a 2D vector field, streamlines seeded on a regular grid is significantly more accurate than icons on a jittered grid.//Identification - Feature:To identify the type of a critical point at a specified location, line-integral convolution is significantly more accurate than icons on a jittered grid.//Identification - Feature: To identify the type of a critical point at a specified location, icons on a jittered grid is significantly more accurate than streamlines seeded on a regular grid.",
-        "guideline_time": "Localization - Feature: To locate all critical points in a 2D vector field, line-integral convolution is significantly more accurate than icons on a regular grid.//Localization - Feature: To locate all critical points in a 2D vector field, icons using one layer of a visualization method that borrows concepts from oil painting is significantly more accurate than icons on a regular grid.//Localization - Feature: To locate all critical points in a 2D vector field, line-integral convolution is significantly more accurate than icons on a jittered grid.//Localization - Feature: To locate all critical points in a 2D vector field, icons using one layer of a visualization method that borrows concepts from oil painting is significantly more accurate than icons on a jittered grid.",
-        "guideline_user": "None",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "localization:feature, identification:feature, comparison:None, association:None, numeration:None",
-        "number": "5",
-        "pages": "59--70",
-        "publisher": "IEEE",
-        "title": "Comparing 2D vector field visualization methods: A user study",
-        "type": "article",
-        "volume": "11",
-        "year": "2005"
     }
 }});

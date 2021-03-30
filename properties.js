@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'Who, What, When, Why, Where? Summarizing Evaluation Results of Ensemble Visualizations';
+var title = 'Who, Why, What, Where, When? Summarizing Evaluation Results of Ensemble Visualizations';
 
 /**
  * Relative path to the data directory
